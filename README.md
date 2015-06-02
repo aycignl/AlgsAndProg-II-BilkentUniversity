@@ -3,6 +3,7 @@
 >This repository includes examples which are from Algorithms&amp;Programming II from Bilkent university video lectures by asst.Prof.Özcan Öztürk.
 2009-2010-Summer  
 Course book is : **Java software solutions**  *Lewis&Loftus*  
+[Visit video lectures](http://video.bilkent.edu.tr/course_videos.php?courseid=19) 
 
 In this course, you can enhance Object-Oriented Programming with Java.  
 
@@ -13,6 +14,10 @@ Topics are:
 * Files.
 * Searching and sorting.
 * Hashing.
-* Time and space considerations.
+* Time and space considerations.  
+
+
+ 
+
 
 
