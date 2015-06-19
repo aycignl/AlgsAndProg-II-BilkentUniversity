@@ -1,14 +1,23 @@
-package week5;
+package lecture5;
 /*
  * username: Gonul
  * e-mail: gonul.ayci90@gmail.com
  * from Bilkent University Computer Science Algorithms&ProgrammingII video lectures.
  */
 
+//********************************************************************
+// Multiples.java Author: Lewis/Loftus
+//
+// Demonstrates the use of a for loop.
+//********************************************************************
+
 import java.util.Scanner;
 
 public class Multiples {
-
+//-----------------------------------------------------------------
+// Prints multiples of a user-specified number up to a user-
+// specified limit.
+//-----------------------------------------------------------------
     public static void main(String[] args) {
 
         final int PER_LINE = 2;

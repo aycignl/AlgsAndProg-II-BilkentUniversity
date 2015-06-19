@@ -1,25 +1,25 @@
-package week5;
+package lecture5;
 /*
  * username: Gonul
  * e-mail: gonul.ayci90@gmail.com
  * from Bilkent University Computer Science Algorithms&ProgrammingII video lectures.
  */
 
-import java.awt.Color;
 import javax.swing.JFrame;
 
-// Demonstrates the use of check boxes.
-public class StyleOptions {
+// Demostrates the use of one listener for multiple buttons.
 
-    public static void main(String[] args) {
+public class LeftRight {
 
-        JFrame frame = new JFrame("Style Options");
+    public static void main(String[] args){
+    
+        JFrame frame = new JFrame("Left Right");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
-        frame.getContentPane().add(new StyleOptionsPanel());
-
+        
+        frame.getContentPane().add(new LeftRightPanel());
+        
         frame.pack();
         frame.setVisible(true);
-
+        
     }
 }

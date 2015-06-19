@@ -1,10 +1,15 @@
-package week5;
+package lecture5;
 /*
  * username: Gonul
  * e-mail: gonul.ayci90@gmail.com
  * from Bilkent University Computer Science Algorithms&ProgrammingII video lectures.
  */
 
+//********************************************************************
+// EvenOdd.java Author: Lewis/Loftus
+//
+// Demonstrates the use of the JOptionPane class.
+//********************************************************************
 import javax.swing.JOptionPane;
 
 // Determines if the value input by the user is even or odd.

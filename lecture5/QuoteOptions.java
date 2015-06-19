@@ -1,4 +1,4 @@
-package week5;
+package lecture5;
 /*
  * username: Gonul
  * e-mail: gonul.ayci90@gmail.com
@@ -7,19 +7,16 @@ package week5;
 
 import javax.swing.JFrame;
 
-// Demostrates the use of one listener for multiple buttons.
+// Demonstrates the use of radio buttons
+public class QuoteOptions {
 
-public class LeftRight {
+    public static void main(String[] args) {
 
-    public static void main(String[] args){
-    
-        JFrame frame = new JFrame("Left Right");
+        JFrame frame = new JFrame("Quote Options");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        
-        frame.getContentPane().add(new LeftRightPanel());
-        
+
+        frame.getContentPane().add(new QuoteOptionsPanel());
         frame.pack();
         frame.setVisible(true);
-        
     }
 }

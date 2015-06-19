@@ -1,11 +1,16 @@
-package week5;
+package lecture5;
 /*
  * username: Gonul
  * e-mail: gonul.ayci90@gmail.com
  * from Bilkent University Computer Science Algorithms&ProgrammingII video lectures.
  */
 
-// Demostrates the use of nested for loops.
+//********************************************************************
+// Stars.java Author: Lewis/Loftus
+//
+// Demonstrates the use of nested for loops.
+//********************************************************************
+
 public class Stars {
 
     // Prints a triangle shape using star characters.

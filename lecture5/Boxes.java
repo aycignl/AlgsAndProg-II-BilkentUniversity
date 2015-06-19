@@ -1,9 +1,15 @@
-package week5;
+package lecture5;
 /*
  * username: Gonul
  * e-mail: gonul.ayci90@gmail.com
  * from Bilkent University Computer Science Algorithms&ProgrammingII video lectures.
  */
+
+//********************************************************************
+// Boxes.java Author: Lewis/Loftus
+//
+// Demonstrates the use of conditionals and loops to guide drawing.
+//********************************************************************
 
 import javax.swing.JFrame;
 

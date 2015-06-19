@@ -1,13 +1,22 @@
-package week5;
+package lecture5;
 /*
  * username: Gonul
  * e-mail: gonul.ayci90@gmail.com
  * from Bilkent University Computer Science Algorithms&ProgrammingII video lectures.
  */
 
+//********************************************************************
+// ReverseNumber.java Author: Lewis/Loftus
+//
+// Demonstrates the use of a do loop.
+//********************************************************************
+
 import java.util.Scanner;
 
 public class ReverseNumber {
+//-----------------------------------------------------------------
+// Reverses the digits of an integer mathematically.
+//-----------------------------------------------------------------
 
     public static void main(String[] args) {
 
